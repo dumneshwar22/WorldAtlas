@@ -1,0 +1,17 @@
+[
+    {
+        "icon" : "MdPlace",
+        "title" : "Find Us",
+        "details":"Pune, Maharashtra"
+    },
+    {
+        "icon" : "IoCallSharp",
+        "title" : "Call Us",
+        "details":"8208527003"
+    },
+    {
+        "icon" : "TbMailPlus",
+        "title" : "Mail Us",
+        "details":"Himanshusonawane022@gmail.com"
+    }
+]
